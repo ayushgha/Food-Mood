@@ -1,0 +1,40 @@
+[Raw Beets with Cumin Seeds,https://www.edamam.com/web-img/15b/15b78e66e589e768ab962b60379b0b24.jpg,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['6 raw small beets, trimmed, peeled and thinly sliced', '1 tbsp. balsamic vinegar', '3 tbsp. mild olive oil', '1/4 tsp. cumin seeds', 'Salt and freshly ground black pepper'],535.95]
+
+[Shortbread with poppy seeds & oats,https://www.edamam.com/web-img/0be/0be6d13812f9b8a5acefeb4dc25d7e73.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['3 tablespoons poppy seeds', '200 g plain flour', '100 g caster sugar', '200 g butter', '100 g semolina', '1 orange', '3 tablespoons Scottish oats'],3222.95]
+
+[Green Beans,https://www.edamam.com/web-img/7ab/7ab39be77709a7e7b98c095420d0201d.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 pound green beans, trimmed', '1 tablespoon butter, (optional)', 'Coarse salt and ground pepper'],144.03]
+
+[Cotechino with Beluga Lentils,https://www.edamam.com/web-img/d50/d50b4c2a2c0bfce5a1b3a794300bd814.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['Serves 4', '1 fresh cotechino (uncooked)', '1 cup beluga lentils', '2 carrots, diced', '2 celery stalks, diced', '1 small onion, diced', '1 clove garlic, chopped', '1 bay leaf', '1 sprig of thyme', '4 cups chicken stock', '1/4 cup olive oil', '1/4 cup red wine vinegar', 'Celery leaves', 'Salt and pepper to taste'],1627.54]
+
+[Baked Eggs,https://www.edamam.com/web-img/7c0/7c06d6352abacc41e169a954ebc3740e.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['Vegetable oil or butter, for the muffin tin', '6 large eggs (choose eggs of a very similar size)', '2 tablespoons chopped, slightly undercooked bacon (figure 2 slices)', '1/4 cup grated Parmesan (optional)', 'Salt and freshly ground black pepper, to taste'],528.03]
+
+[Whole Grain Cornbread,https://www.edamam.com/web-img/ee3/ee3f77f4e3f80ac79f297ca4fbc8d47b.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 1/4 cups whole grain oat flour', '3/4 cup cornmeal', '2 teaspoons hain pure foods featherweight baking powder', '2 packets (2 grams) stevia or other sugar alternative', '2 egg whites', '1/3 cup fat-free milk', '1 tablespoon fat-free milk', '1 cup fat-free ricotta cheese', '2 tablespoons honey'],1594.18]
+
+[Oven-Dried Blueberries,https://www.edamam.com/web-img/0a6/0a61ee1c8f499f8dfeda40c0d0162ba5.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 cup blueberries', '1 teaspoon honey'],105.83]
+
+[Seaweed Tempura,https://www.edamam.com/web-img/479/479441a65cb70a581741aa6561d735b9.jpg,['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Tree-Nut-Free'],['1 cup seaweed', '1/3 cup plus 3 teaspoons all-purpose flour', 'Salt', '2 tablespoons sesame seeds', '5 ounces soda water', 'Peanut oil, for frying', 'Soy sauce (I prefer light), for serving'],697.06]
+
+[Serious Chocolate: Easy Chocolate Pie Crust Recipe,https://www.edamam.com/web-img/4d9/4d92006b030763f551ce22e97d074555.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 cups chocolate wafers or 2 cups chocolate graham crackers', '1/4 cup sugar', '3/4 stick of butter (6 tablespoons)'],1771.08]
+
+[Lemon-Thyme Spinach,https://www.edamam.com/web-img/011/011752f3c771f49ee71d176094969120.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 tsp. lightly packed finely grated lemon zest', '2 lb. stemmed spinach (from 2-1/2 lb. bagged spinach or 5 lb. bunched spinach)', '4 tsp. coarsely chopped fresh thyme', '1/2 tsp. minced garlic', '6 Tbs. unsalted butter, softened', 'Kosher salt'],826.73]
+
+[Orange Cheesecake with Caramel-Orange Sauce,https://www.edamam.com/web-img/6cf/6cf2bbc55720cb10e078e655bdeaf6c6.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free'],['11 whole graham crackers, broken', '1/4 cup sugar', '1/4 cup (1/2 stick) unsalted butter, melted', '4 8-ounce packages cream cheese, room temperature', '1 1/3 cups sugar', '6 large eggs', '3 tablespoons orange liqueur', '5 teaspoons finely grated orange peel', '2 teaspoons vanilla extract', 'Caramel-Orange Sauce'],6020.84]
+
+[Easy Candied Nuts,https://www.edamam.com/web-img/f93/f93ebbb0f9f7eebfdd7061c12325cafb.jpg,['Vegan', 'Vegetarian', 'Alcohol-Free'],['2 cups unsalted mixed raw nuts (such as almonds, cashews, pecans, and walnuts)', '3/4 cup granulated sugar', '1/2 teaspoon kosher salt'],2208.06]
+
+[Sweet Hibiscus Tea,https://www.edamam.com/web-img/b7a/b7aae515e6f8893b67dd537653eec917.jpg,['Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 decaffeinated hibiscus tea bags', '2 decaffeinated lemon tea bags', '2 cups apple juice'],228.28]
+
+[Coconut Snowballs recipes,https://www.edamam.com/web-img/ac7/ac776ad258fb09b3fd7af7ffbcf3ef73,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 3/4 cups unsweetened shredded coconut, divided', '2 teaspoons melted coconut oil', '3 tablespoons maple syrup', '2 tablespoons unsweetened coconut milk', '1/2 teaspoon vanilla extract', '1/2 teaspoon ground cinnamon', '1/8 teaspoon sea salt'],1283.69]
+
+[Tofu Fries,https://www.edamam.com/web-img/923/923a5695c21673352373147b02e69c52.jpg,['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['Vegetable oil, for frying', '1/2 cup cornstarch', '1 1/4 pounds extra-firm tofu, drained, cut into 3/4-inch sticks', 'Salt'],1482.45]
+
+[Blue Cheese And Rosemary Cheese Ball,https://www.edamam.com/web-img/267/267453ecfa1166087920b85a2e1307d2.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free'],['4 ounces very soft blue cheese', '4 ounces (half package) full-fat cream cheese', '1/2 cup toasted walnuts', '1 tablespoon fresh rosemary, chopped', '1 tablespoon red wine', 'Salt and pepper', '1/4 cup poppy seeds'],1081.40]
+
+[Creamy Chicken With Red Pesto,https://www.edamam.com/web-img/fce/fceb38d2a0a597a8381f4822be126ade.jpg,['Peanut-Free'],['150 g mushrooms, sliced', '400 g chicken breast or thigh meat, cut into strips', '1 tbsp chives, finely chopped (optional)', '2 tbsp red pesto', '1 green finger chilli, deseeded and finely chopped', '200 ml creme fraiche', '25 g butter', 'Half a glass of white wine', '1 tbsp olive oil'],1440.79]
+
+[Chicken Piccata,https://www.edamam.com/web-img/a29/a293566f53abc01af0a24157134b4a87.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free'],['2-4 boneless, skinless chicken breast halves (1 1/2 pound total), or 4-8 chicken cutlets', '1/2 cup flour', '1/4 teaspoon salt', 'Pinch ground black pepper', '3 Tbsp grated Parmesan cheese', '4 Tbsp olive oil', '4 Tbsp butter', '1/2 cup chicken stock or dry white wine (such as a Sauvignon Blanc)', '2 Tbsp lemon juice', '1/4 cup brined capers', '2 Tbsp fresh chopped parsley'],1651.06]
+
+[Gefilte Fish,https://www.edamam.com/web-img/dff/dffce9a5278556e68789d3e6bff9eda9.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free'],['32 ounces fish stock', '32 ounces water (substitute fish stock for water if your stock is homemade)', '1 large carrot, diced', '1 rib of celery, diced', '8 sprigs fresh thyme', '1 leek (trimmed, cleaned, and sliced into thin slivers)', '1 cup dry white wine', '4 sprigs tarragon', 'Olive oil', '1/2 medium yellow onion, finely diced', '1/3 cup matzo meal', '1 cup reinforced fish stock', '2 pounds fish, boneless and skinless fillets (see author’s note for details)', '1/8 teaspoon white pepper', '1/8 teaspoon cayenne', '4 eggs, separated', '3 teaspoons salt', '2 teaspoons sugar'],2337.00]
+
+[Turkey Avgolemono Soup,https://www.edamam.com/web-img/f4c/f4cf4db4250dec890875de98de129518.jpg,['Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 quarts turkey stock (or low-sodium chicken stock)', '3/4 cup long grain white rice', '2 cups roasted turkey, shredded', '4 eggs', '2 lemons, juiced'],1371.74]
+

@@ -1,0 +1,66 @@
+[Super Bowl Snacks: Loaded Baked Potato Potato Chip Nachos Recipe,https://www.edamam.com/web-img/8d0/8d0f29fb341a1e8685304cdf29ea9c30.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 seven-ounce bag of kettle-cooked potato chips', '1 medium russet potato, peeled, and cut into 1-inch cubes', '1/2 cup whole milk', '1 tablespoon butter', 'Salt and pepper', '4 strips thick-cut bacon', '1 cup grated extra sharp cheddar cheese', '2 to 3 scallions, sliced', '1/4 cup sour cream'],2472.278740538919]
+
+[Cheese Blintz,https://www.edamam.com/web-img/f58/f589827855941dc382e046df35259de4.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['4 tablespoons unsalted butter, melted and cooled slightly', '1 cup milk (fat level shouldn�t matter, but I use whole)', '4 large eggs', '1 cup all-purpose flour (I swap 1/3 to 1/2 regularly with whole wheat, and did so here)', 'Few pinches of salt', '2 cups farmer�s cheese, quark, a thicker cottage cheese or ricotta', '6 tablespoons sour cream, mascarpone, creme fraiche or softened cream cheese', '2 tablespoons granulated sugar (or more to taste, see Note up top)', '1/4 teaspoon vanilla extract (if desired)', 'Few gratings fresh lemon zest (if desired)', '2 large egg yolks or 1 large egg (optional)'],1977.6039999999998]
+
+[Roasted Red Pepper Labneh,https://www.edamam.com/web-img/d0d/d0dd5ac9a13851502101ee614b0c430a.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 whole roasted red pepper from a jar', '1 teaspoon fresh lemon juice', '� teaspoon honey', '2 cups labneh (Lebanese strained yogurt)', 'Kosher salt'],533.4133333339346]
+
+[Coconut Jam,https://www.edamam.com/web-img/f40/f405e61ee53104c52f0035437276b23c.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['� cup plus 3 tablespoons granulated sugar', '1 tablespoon water', '5 large eggs', '1 cup coconut milk', '3 tablespoons unsweetened coconut, minced'],1634.6934999982218]
+
+[Serious Chocolate: Easy Chocolate Pie Crust Recipe,https://www.edamam.com/web-img/4d9/4d92006b030763f551ce22e97d074555.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 cups chocolate wafers or 2 cups chocolate graham crackers', '1/4 cup sugar', '3/4 stick of butter (6 tablespoons)'],1771.0775]
+
+[Spiced Cauliflower with Sesame Seeds,https://www.edamam.com/web-img/3cf/3cfa8b7ff0136fdd496a23dfcf3803dd.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 1/2 tablespoons extra-virgin olive oil or clarified butter', '1 teaspoon cumin seeds', '2 medium yellow onions, finely sliced', 'a pinch of turmeric', 'fine grain sea salt', '1 medium/12 oz cauliflower, thinly sliced', '4 dried red chiles, stemmed and halved', '1-2 teaspoon sesame seeds, lightly toasted', '1 garlic clove, grated', '4 cm/1 1/2-inch piece of fresh ginger, peeled and finely grated', '1-2 green jalapeno chiles, seeds removed, finely chopped', '2-3 tablespoons chopped fresh cilantro/coriander'],550.571000002093]
+
+[Homemade Italian Beef Recipe,https://www.edamam.com/web-img/4d6/4d6487af4e7162d2f0fc43819b4e44e6.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['3 pounds beef necks, or other meaty beef bones like beef shin', '2 pounds oxtails', '1 medium onion, chopped (about 1 cup)', '1 medium carrot, chopped (about 3/4 cup)', '4 medium cloves garlic, peeled and left whole', '2 bay leaves', '10 black peppercorns', '4 cloves', '1/2 to 1 teaspoon salt', '2 green bell peppers', '8 Italian rolls', '2 pounds thinly sliced roast beef (see note above)'],6752.873309755556]
+
+[Vanilla Frozen Yogurt Recipe,https://www.edamam.com/web-img/146/146c072c175df9f407f9516a3f6466eb.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['3 cups (720g) strained yogurt (see below) or Greek-style yogurt', '3/4 cup (150g) sugar', '1 teaspoon vanilla extract (optional)'],1332.18]
+
+[Fried Asparagus,https://www.edamam.com/web-img/337/3372b620f8f2b9c04aba6131bc2496ef.jpg,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 lb. fresh asparagus', '2 tbsp. vegetable oil'],338.238474]
+
+[Infused Honey,https://www.edamam.com/web-img/69e/69e0df7cfa82cc2a10113c1c36cb2d0d.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 cup honey', '4 star anise', '4 cinnamon sticks'],1083.208]
+
+[Fresh tomato broth,https://www.edamam.com/web-img/7db/7dbdf0a1b2440b46b1113ba4752d7e2d.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['4 onions', '6 cloves of garlic', '4 sticks of celery', '20 large mixed-colour tomatoes , (about 2.5kg)', '1 x 2kg whole free-range chicken , fat trimmed off', '1 tablespoon tomato pur�e , optional'],143.43679999999998]
+
+[Persian Chicken,https://www.edamam.com/web-img/bd4/bd47ac0557ade02871750518d56ba928.jpg,['Peanut-Free', 'Tree-Nut-Free'],['2 large onions', '750 g chicken', '500 g mushrooms', '1 cup water', '1 cup red wine', '2 tsps chicken stock', '200 ml mayonnaise', '200 ml cream', 'Small bunch of parsley', '1 tsp curry powder'],4107.49372402923]
+
+[Olive Oil Mashed Potatoes,https://www.edamam.com/web-img/a26/a26be4c0c3c89a77effd42f5721facb7.jpg,['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 pound Idaho or Yukon gold potatoes, scrubbed but not peeled', 'Salt', '1/4 cup extra-virgin olive oil, or to taste', 'Freshly ground pepper, preferably white'],830.4482954461]
+
+[Sauteed Spinach,https://www.edamam.com/web-img/caa/caa67c669b063cde086c711ea2d2ce62.jpg,['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 tablespoon olive oil', '1 garlic clove, peeled', '1 1/4 pounds baby spinach', 'Coarse salt and ground pepper'],258.611489557625]
+
+[Flaxseed, Fig, and Walnut Crackers,https://www.edamam.com/web-img/a3c/a3cd6a9c05648cd049f9ee702bc6e1c0.jpg,['Vegetarian', 'Peanut-Free', 'Alcohol-Free'],['1/3 cup whole flaxseed', '1/4 cup ground flaxseed or flaxseed meal (available in the vitamin section of most supermarkets)', '1 1/2 cups whole-wheat flour', '1/2 teaspoon baking powder', '1/4 teaspoon kosher salt', '1 tablespoon plus 1 teaspoon brown sugar', '4 tablespoons unsalted butter, at room temperature', '1/4 cup walnuts, chopped', 'About 7 dried figs, chopped (1 cup)', '1/2 cup soy milk'],1850.0236999994179]
+
+[Salmon Rillette,https://www.edamam.com/web-img/084/084df1023be09bf04c03701b7d6962bd.JPG,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free'],['1 pound salmon fillet, skin and pin bones removed', '2 tablespoons pernod', '3 1/2 teaspoons salt, divided', '1 teaspoon pepper, divided', '1 cup unsalted butter, at room temperature, divided', '1/2 cup minced shallots', '1 tablespoon creme fraiche', '1/2 pound smoked salmon, diced', '2 1/2 tablespoons lemon juice', '1 tablespoon extra-virgin olive oil', '2 egg yolks, lightly beaten', '1/4 cup minced chives', 'Gaguette, for serving'],3194.459832717672]
+
+[Classic King Crab,https://www.edamam.com/web-img/0d5/0d5568c732d57746362a6591b36b45c3.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['3-4 pounds Alaskan king crab legs and claws', '1 stick of butter', 'Lemon wedges for garnish'],2143.7715678000004]
+
+[Brilliant banana loaf,https://www.edamam.com/web-img/ddc/ddc67436a3500d8e0d3571d39da3f127.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['140g butter, softened, plus extra for the tin', '140g caster sugar', '2 large egg, beaten', '140g self-raising flour', '1 tsp baking powder', '2 very ripe banana, mashed', '50g icing sugar', 'handful dried banana chips, for decoration'],2600.992]
+
+[Farfalle With Peas And Pancetta,https://www.edamam.com/web-img/b5c/b5c9d8e30e97f49fa6fa865a6c247d89.jpg,['Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 pounds fresh peas in pod or one 10-ounce box frozen baby peas', '1 pound sugar snap peas and/or snow peas', '1/2 pound sliced pancetta or 1/4 pound sliced bacon', '2 shallots', '1 pound dried farfalle or rotini', '3 tablespoons olive oil', 'Accompaniment: freshly grated Parmigiano-Reggiano'],3690.02140735]
+
+[Perfect Brussels Sprouts,https://www.edamam.com/web-img/9f9/9f9df43b8ae707d111023976916fc230.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 handfuls brussels sprouts', '1 tablespoon olive oil', '1/2 cup chicken stock', 'Salt & pepper'],172.0]
+
+[Pain Aux Raisins recipes,https://www.edamam.com/web-img/c93/c938ab375a39bdca6d514e763f46d1ef,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 cup raisins', '1/2 recipe Croissant Dough', 'all-purpose flour', 'cream', '1 large egg', '8 to 9 teaspoons sugar'],999.117822]
+
+[Avocado Crema,https://www.edamam.com/web-img/637/637c6021c685392c51db5c0ffb2c7cb3.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 cup sour cream or crema', '1 avocado, peeled, pitted, and cubed', 'Kosher salt and freshly ground black pepper, to taste'],768.74543]
+
+[Baked Eggs,https://www.edamam.com/web-img/7c0/7c06d6352abacc41e169a954ebc3740e.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['Vegetable oil or butter, for the muffin tin', '6 large eggs (choose eggs of a very similar size)', '2 tablespoons chopped, slightly undercooked bacon (figure 2 slices)', '1/4 cup grated Parmesan (optional)', 'Salt and freshly ground black pepper, to taste'],528.0319752489736]
+
+[Pickled apricots,https://www.edamam.com/web-img/d7b/d7bbd5055dc070f34a343c5d97c8c6af.jpg,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 1/3 pounds fresh apricots', '4 cups white wine vinegar (7 % acidity)', '3/4 cup sugar', '2 tablespoons coarse sea salt', '3 bay leaves'],1265.5174544000001]
+
+[Umami Sliders with thai broccoli slaw,https://www.edamam.com/web-img/458/458f44fe9484847d2214650c60544ced.JPG,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 pounds fresh, lean hamburger', '12 slider buns or hawaiian mini rolls', '6 pieces of thick hardwood smoked bacon', '2 tablespoons chili paste (sambal oelek) divided', '2 tablespoons brown sugar', '2 teaspoons wasabi (divided)', '1 teaspoon lemongrass', '1/4 cup mayo (divided)', '1 package of brocoli slaw', '2 tablespoons rice wine vinegar', '1 teaspoon agave or sugar (optional)'],5321.805471798906]
+
+[Preserved Lemons,https://www.edamam.com/web-img/23d/23d57f6c250bb9bed55a9cd88979318f.jpg,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 cups Diamond Crystal or 1 cup Morton kosher salt', '1/2 cup sugar', '5 lemons, preferably organic, scrubbed'],471.1]
+
+[Tuna Confit,https://www.edamam.com/web-img/23a/23a94c94a06b01163f9e987f28f99672.png,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 pounds albacore tuna loin', '1 1/2 tablespoon kosher salt', '1 teaspoon white pepper', '1 teaspoon sugar', 'Zest of 2 lemons', '3 sprigs thyme', '2 cloves garlic'],1063.8593666000002]
+
+[Rice Pilaf With Pine Nuts,https://www.edamam.com/web-img/6c1/6c1f30653226bc623e88664d05d84d2f.jpg,['Sugar-Conscious', 'Peanut-Free', 'Alcohol-Free'],['1 tablespoon olive oil', '1 small onion, finely chopped', '1 cup long-grain white rice', '1 1/2 cups low-salt chicken broth', '1/2 cup pine nuts, toasted if desired'],1361.2150000000001]
+
+[Mushroom Dip,https://www.edamam.com/web-img/ee3/ee3f77f4e3f80ac79f297ca4fbc8d47b.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['1 can condensed cream of mushroom soup', '8 oz cream cheese', '1 cup chopped fresh white or portobello mushrooms', '1 shallot', '1 clove garlic', '2 tsp tabasco sauce', 'Salt and pepper to taste'],1087.2663766397168]
+
+[Irish Coffee,https://www.edamam.com/web-img/38b/38bfa1d625cde002158cadb7f5b8fb8f.jpg,['Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Cocktail'],['1 cup of strong coffee', '1 measure of Irish whiskey', '2.0 tsp brown sugar', '2.0 tbsp chilled double cream'],233.67000000000002]
+
+[Lentils and Ham,https://www.edamam.com/web-img/198/1983af865a9acde3ee814c0beb63778a.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['Ham bone, and stray bits of leftover ham', '3 quarts water', '2 carrots, roughly chopped', '2 celery stalks, roughly chopped', '1 large onion, roughly chopped', '2 bay leaves', '2 teaspoons dried thyme', '2 tablespoons olive oil', '1 cup minced yellow onion', '2 teaspoons minced garlic', '1 pound green, black or brown lentils, about 2 cups (we used French green lentils which cook up a little on the firm side)', '5 cups ham broth', 'Salt', 'Slices of leftover ham'],16773.53883874165]
+
+[Brown rice with chanterelles and caramelized onions,https://www.edamam.com/web-img/eab/eab3b8a8b0f05d9069b991a33fefff4f.jpg,['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 cups brown rice', '4 cups chanterelle mushrooms', '2 onions, thinly sliced onions', 'Olive oil', 'Salt', 'Pepper'],1665.759884]
+
+[Fresh Oranges With Caramel & Ginger,https://www.edamam.com/web-img/1a1/1a1d8f46817d37e578bf330a5fb3d6fd.jpg,['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 Tbs. chopped crystallized ginger', '8 to 10 mint leaves, very thinly sliced', '1/3 cup granulated sugar', '5 seedless oranges, such as navel, including some blood oranges if possible'],663.0439999999999]
+

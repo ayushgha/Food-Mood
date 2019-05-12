@@ -1,0 +1,8 @@
+[Flaxseed Crackers,https://www.edamam.com/web-img/133/133fb793b6fc20777ad133b5dc480f19.jpg,['Sugar-Conscious', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 tablespoons canola oil', '6 tablespoons popping corn', '2 tablespoons sugar', '1 tablespoon golden flaxseeds', '1/2 teaspoon salt', '1/2 teaspoon freshly ground black pepper'],571.68]
+
+[Potted Fresh & Smoked Salmon,https://www.edamam.com/web-img/b80/b80b20106bbbc96ee30d83363a05ed70.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['600.0g skinless salmon fillets', '100.0g butter', '200.0g smoked salmon', '� tsp chilli paste or harissa paste', '2 lemons , juice only'],2220.66]
+
+[Homemade fish fingers,https://www.edamam.com/web-img/798/79872b022c279ee76b9bee7421481e5f.jpg,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['3 tbsp plain flour', '1 large free-range egg, beaten', '50g/1�oz golden breadcrumbs (if not available, substitute with 30g/1oz fresh white breadcrumbs mixed with 20g/�oz easy-cook polenta)', '500g/1lb2oz thick skinless fish fillets (salmon, cod, haddock or other white fish), cut into 4 or 8 thick pieces', '3 tbsp sunflower oil', 'Salt and freshly ground black pepper'],1199.99]
+
+[Tuna Confit,https://www.edamam.com/web-img/23a/23a94c94a06b01163f9e987f28f99672.png,['Sugar-Conscious', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free'],['2 pounds albacore tuna loin', '1 1/2 tablespoon kosher salt', '1 teaspoon white pepper', '1 teaspoon sugar', 'Zest of 2 lemons', '3 sprigs thyme', '2 cloves garlic'],1063.86]
+
